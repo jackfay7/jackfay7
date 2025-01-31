@@ -9,4 +9,9 @@ My majors are Data Science and Psychology.
 
 I am from Easthampton Massachusetts. 
 
+Peronal Analysis Blog: jackfay7.github.io/DataVizBlog/ 
+
+SCORE with Data Project: https://data.scorenetwork.org/
+
+
 -->
